@@ -20,6 +20,7 @@
 ## 📑 Table of Contents
 
 - [🎖️ Leadership & Service Awards](#️-leadership--service-awards)
+- [🏅 Scholarships & Honors](#-scholarships--honors)
 - [🎓 Academic & Technical Awards](#-academic--technical-awards)
 - [🎬 Creative & Competition Awards](#-creative--competition-awards)
 - [🌍 Community Service Awards](#-community-service-awards)
@@ -70,6 +71,26 @@
 | Receiving the Award | With My Team |
 |:---:|:---:|
 | <img src="Rotaract Awards 2024-25/Transformative Growth of the year of RcSVIT 2024-25/Receiving_Transformative_Growth_of_the_year_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="Rotaract Awards 2024-25/Transformative Growth of the year of RcSVIT 2024-25/With_My_Team.jpg" width="400"/> |
+
+</details>
+
+---
+
+## 🏅 Scholarships & Honors
+
+| # | Scholarship | Awarded By | Year |
+|:-:|---|---|---|
+| 1 | **Pratt & Whitney Scholarship** — 2nd Year | Pratt & Whitney | 2023–2024 |
+| 2 | **Pratt & Whitney Scholarship** — 3rd Year | Pratt & Whitney | 2024–2025 |
+| 3 | **Pratt & Whitney Scholarship** — 4th Year | Pratt & Whitney | 2025–2026 |
+
+<details>
+<summary>📸 View Scholarship Certificates</summary>
+<br>
+
+| 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
+|:---:|:---:|:---:|
+| <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="280"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="280"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="280"/> |
 
 </details>
 
@@ -152,10 +173,11 @@
 | Category | Count |
 |---|:---:|
 | 🎖️ Leadership & Service Awards | 5 |
+| 🏅 Scholarships & Honors | 3 |
 | 🎓 Academic & Technical Awards | 2 |
 | 🎬 Creative & Competition Awards | 1 |
 | 🌍 Community Service Awards | 2 |
-| **Total** | **10** |
+| **Total** | **13** |
 
 ---
 
