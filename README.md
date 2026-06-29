@@ -32,11 +32,15 @@
 
 | # | Award | Organization | Year |
 |:-:|---|---|---|
-| 1 | **Outstanding President & Secretary Duo** | Rotaract Club of SVIT | 2024–2025 |
-| 2 | **Emerging Club of the Quarter** (Q1 – Q4) | Rotaract Club of SVIT | 2024–2025 |
-| 3 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
-| 4 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
-| 5 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
+| 1 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
+| 2 | **Outstanding President & Secretary Duo** | Rotaract Club of SVIT | 2024–2025 |
+| 3 | **Emerging Club of the Quarter** (Q1 – Q4) | Rotaract Club of SVIT | 2024–2025 |
+| 4 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
+| 5 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
+| 6 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
+| 7 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
+| 8 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
+| 9 | **Special Recognition** | Rotary International | 2022–2023 |
 
 <details>
 <summary>📸 View Award Photos</summary>
@@ -44,9 +48,21 @@
 
 **Outstanding President & Secretary Duo of RcSVIT 2024-25**
 
-| Receiving the Award | All Awards | With My Team |
-|:---:|:---:|:---:|
-| <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/Receiving_Outstanding_President & Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="280"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/All_Awards.jpg" width="280"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/With_My_Team.jpg" width="280"/> |
+| District Level Award (Rotaract District 3192) | Receiving the Award | All Awards | With My Team |
+|:---:|:---:|:---:|:---:|
+| <img src="Outstanding_President_&_Secretary_Duo_of_RcSVIT_Award_2024-25/Outstanding_President_&_Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/Receiving_Outstanding_President & Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/All_Awards.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/With_My_Team.jpg" width="210"/> |
+
+**Rotaract PR Co-Director & Diligent Member (2023-24)**
+
+| PR Co-Director Appointment | Diligent Member Award |
+|:---:|:---:|
+| <img src="Rotaract_PR_Co_Director_Appointment_Award_2023-24/Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="Rotaract_Diligent_Member_Award_2023-24/Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
+
+**Rotary Special Recognition (2022-23)**
+
+| Rotary Special Recognition |
+|:---:|
+| <img src="Rotary_Special_Recognition_Award_2022-23/Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
 **Emerging Club of RcSVIT (Q1 – Q4) 2024-25**
 
@@ -88,9 +104,9 @@
 <summary>📸 View Scholarship Certificates</summary>
 <br>
 
-| 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
-|:---:|:---:|:---:|
-| <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="280"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="280"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="280"/> |
+| Memento (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
+|:---:|:---:|:---:|:---:|
+| <img src="Scholarships_&_Honors_Award_2022-2026/From Pratty and whithey/Pratt_&_Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="210"/> |
 
 </details>
 
@@ -102,14 +118,15 @@
 |:-:|---|---|---|
 | 1 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
 | 2 | **Department Technical Forum — Student Coordinator** | SVIT | 2023–2024 |
+| 3 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
 
-| 2nd Place — Mini Project (Receiving from HOD) | Dept Technical Forum Student Coordinator |
-|:---:|:---:|
-| <img src="2nd Place in Mini Project 2024-25/Receiving_MiniProject_Award_From_HOD.jpg" width="400"/> | <img src="Dept technical From student coordinator 2023-24/department_technical_forum_student_coordiantor_Award (2023-2024).jpg" width="400"/> |
+| 2nd Place — Mini Project (Receiving from HOD) | Dept Tech Forum Coordinator (2023-24) | Abhijna Tech Forum Coordinator (2024-25) |
+|:---:|:---:|:---:|
+| <img src="2nd Place in Mini Project 2024-25/Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="Dept technical From student coordinator 2023-24/department_technical_forum_student_coordiantor_Award (2023-2024).jpg" width="280"/> | <img src="Dept_technical_From_student_coordinator_Award_2023-24/Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
 
 | Receiving Dept Tech Forum Award from Principal |
 |:---:|
@@ -172,12 +189,12 @@
 
 | Category | Count |
 |---|:---:|
-| 🎖️ Leadership & Service Awards | 5 |
+| 🎖️ Leadership & Service Awards | 9 |
 | 🏅 Scholarships & Honors | 3 |
-| 🎓 Academic & Technical Awards | 2 |
+| 🎓 Academic & Technical Awards | 3 |
 | 🎬 Creative & Competition Awards | 1 |
 | 🌍 Community Service Awards | 2 |
-| **Total** | **13** |
+| **Total** | **18** |
 
 ---
 
