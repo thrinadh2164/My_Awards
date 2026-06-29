@@ -160,14 +160,19 @@
 |:-:|---|---|---|
 | 1 | **Beach Clean Up Drive — Gratitude Award** | Rotaract Club, Kundapura | 2024–2025 |
 | 2 | **Best Campaign & Poster Making — Medal** | Rotaract Club, Kundapura | 2024–2025 |
+| 3 | **Beach Clean Up Drive — Completion Certificate** | Rotaract Club, Kundapura | 2024–2025 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
 
-| Gratitude Award | Best Campaign & Poster Making Medal | With My Team |
-|:---:|:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Beach_Clean_Up_drive_kundapura_2024-2025_Gratitude_Award.jpg" width="280"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Best_Campaing & Poster_Making_Medal.jpeg" width="280"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/With_My_Team.jpg" width="280"/> |
+| Gratitude Award | Best Campaign & Poster Making Medal |
+|:---:|:---:|
+| <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Beach_Clean_Up_drive_kundapura_2024-2025_Gratitude_Award.jpg" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Best_Campaing & Poster_Making_Medal.jpeg" width="400"/> |
+
+| Completion Certificate | With My Team |
+|:---:|:---:|
+| <img src="Rotaract_Awards_Award_2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/With_My_Team.jpg" width="400"/> |
 
 </details>
 
@@ -193,8 +198,8 @@
 | 🏅 Scholarships & Honors | 3 |
 | 🎓 Academic & Technical Awards | 3 |
 | 🎬 Creative & Competition Awards | 1 |
-| 🌍 Community Service Awards | 2 |
-| **Total** | **18** |
+| 🌍 Community Service Awards | 3 |
+| **Total** | **19** |
 
 ---
 
