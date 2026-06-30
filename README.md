@@ -42,7 +42,7 @@
 | 6 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
 | 7 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
 | 8 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
-| 9 | **Special Recognition** | Rotary International | 2022–2023 |
+| 9 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
 
 <details>
 <summary>📸 View Award Photos</summary>
@@ -84,9 +84,9 @@
 |:---:|:---:|
 | <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
 
-**Rotary Special Recognition (2022-23)**
+**Rotaract Club of SVIT Special Recognition (2022-23)**
 
-| Rotary Special Recognition |
+| Special Recognition |
 |:---:|
 | <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
