@@ -11,7 +11,7 @@
 
 ---
 
-### 🔗 [Click Here to View the Live Interactive Gallery](https://thrinadh2164.github.io/My_Awards) 
+### [![Live Gallery](https://img.shields.io/badge/View_Live_Interactive_Gallery-Click_Here-2ea44f?style=for-the-badge)](https://thrinadh2164.github.io/My_Awards)
 
 *A curated showcase of my awards, recognitions, and honors earned through leadership, academics, creativity, and community service.*
 
@@ -35,14 +35,13 @@
 | # | Award | Organization | Year |
 |:-:|---|---|---|
 | 1 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
-| 2 | **Outstanding President & Secretary Duo** | Rotaract Club of SVIT | 2024–2025 |
-| 3 | **Emerging Club of the Quarter** (Q1 – Q4) | Rotaract Club of SVIT | 2024–2025 |
-| 4 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
-| 5 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
-| 6 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
-| 7 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
-| 8 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
-| 9 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
+| 2 | **Emerging Club of the Quarter** (Q2 – Q4) | Rotaract Club of SVIT | 2024–2025 |
+| 3 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
+| 4 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
+| 5 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
+| 6 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
+| 7 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
+| 8 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
 
 <details>
 <summary>📸 View Award Photos</summary>
@@ -54,7 +53,7 @@
 |:---:|:---:|:---:|:---:|
 | <img src="assets/leadership/2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="assets/leadership/2024-25_Receiving_Outstanding_President___Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="assets/leadership/2024-25_All_Awards.jpg" width="210"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="210"/> |
 
-**Emerging Club of RcSVIT (Q1 – Q4) 2024-25**
+**Emerging Club of RcSVIT (Q2 – Q4) 2024-25**
 
 | Q2 Award | Receiving Q2 | Receiving Q3 | Receiving Q4 |
 |:---:|:---:|:---:|:---:|
@@ -98,17 +97,18 @@
 
 | # | Scholarship | Awarded By | Year |
 |:-:|---|---|---|
-| 1 | **Pratt & Whitney Scholarship** — 2nd Year | Pratt & Whitney | 2023–2024 |
-| 2 | **Pratt & Whitney Scholarship** — 3rd Year | Pratt & Whitney | 2024–2025 |
-| 3 | **Pratt & Whitney Scholarship** — 4th Year | Pratt & Whitney | 2025–2026 |
+| 1 | **Pratt & Whitney Scholarship** — 1st Year | Pratt & Whitney | 2022–2023 |
+| 2 | **Pratt & Whitney Scholarship** — 2nd Year | Pratt & Whitney | 2023–2024 |
+| 3 | **Pratt & Whitney Scholarship** — 3rd Year | Pratt & Whitney | 2024–2025 |
+| 4 | **Pratt & Whitney Scholarship** — 4th Year | Pratt & Whitney | 2025–2026 |
 
 <details>
 <summary>📸 View Scholarship Certificates</summary>
 <br>
 
-| Memento (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="assets/uncategorized/2024_2nd_year_Award_2023-24.jpg" width="210"/> | <img src="assets/uncategorized/2024_3rd_year_Award_2024-25.jpg" width="210"/> | <img src="assets/uncategorized/2024_4rd_year_Award_2025-26.jpg" width="210"/> |
+| Memento (2022-23) | 1st Year (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="200"/> | <img src="assets/uncategorized/2024_1st_year_Award_2022-23.jpg" width="200"/> | <img src="assets/uncategorized/2024_2nd_year_Award_2023-24.jpg" width="200"/> | <img src="assets/uncategorized/2024_3rd_year_Award_2024-25.jpg" width="200"/> | <img src="assets/uncategorized/2024_4rd_year_Award_2025-26.jpg" width="200"/> |
 
 </details>
 
@@ -119,20 +119,30 @@
 | # | Award | Organization | Year |
 |:-:|---|---|---|
 | 1 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
-| 2 | **Department Technical Forum — Student Coordinator** | SVIT | 2023–2024 |
-| 3 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
+| 2 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
+| 3 | **Community Service Ambassador** | SVIT | 2022–2026 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
 
-| 2nd Place — Mini Project (Receiving from HOD) | Dept Tech Forum Coordinator (2023-24) | Abhijna Tech Forum Coordinator (2024-25) |
-|:---:|:---:|:---:|
-| <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="280"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
+**2nd Place — Mini Project (2024-25)**
 
-| Receiving Dept Tech Forum Award from Principal |
+| Receiving from HOD |
 |:---:|
-| <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="400"/> |
+| <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="400"/> |
+
+**Abhijna Technical Forum Student Coordinator (2024-25)**
+
+| Certificate | Trophy | Receiving from Principal |
+|:---:|:---:|:---:|
+| <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="250"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="250"/> | <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="250"/> |
+
+**Community Service Ambassador (2022-26)**
+
+| Award | Certificate |
+|:---:|:---:|
+| <img src="assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg" width="400"/> | <img src="assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg" width="400"/> |
 
 </details>
 
@@ -174,7 +184,7 @@
 
 | Completion Certificate | With My Team |
 |:---:|:---:|
-| <img src="assets/community_service/2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
+| <img src="assets/community_service/2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="assets/community_service/2024-2025_With_My_Team.jpg" width="400"/> |
 
 </details>
 
@@ -196,8 +206,8 @@
 
 | Category | Count |
 |---|:---:|
-| 🎖️ Leadership & Service Awards | 9 |
-| 🏅 Scholarships & Honors | 3 |
+| 🎖️ Leadership & Service Awards | 8 |
+| 🏅 Scholarships & Honors | 4 |
 | 🎓 Academic & Technical Awards | 3 |
 | 🎬 Creative & Competition Awards | 1 |
 | 🌍 Community Service Awards | 3 |
