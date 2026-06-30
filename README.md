@@ -27,12 +27,46 @@
 
 ## 📑 Table of Contents
 
+- [🎓 Academic & Technical Awards](#-academic--technical-awards)
 - [🎖️ Leadership & Service Awards](#️-leadership--service-awards)
 - [🏅 Scholarships & Honors](#-scholarships--honors)
-- [🎓 Academic & Technical Awards](#-academic--technical-awards)
 - [🎬 Creative & Competition Awards](#-creative--competition-awards)
 - [🌍 Community Service Awards](#-community-service-awards)
 - [🚧 Coming Soon](#-coming-soon)
+
+---
+
+## 🎓 Academic & Technical Awards
+
+| # | Award | Organization | Year |
+|:-:|---|---|---|
+| 1 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
+| 2 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
+| 3 | **Community Service Ambassador** | SVIT | 2022–2026 |
+
+<details>
+<summary>📸 View Award Photos</summary>
+<br>
+
+**2nd Place — Mini Project (2024-25)**
+
+| Certificate | Receiving from HOD |
+|:---:|:---:|
+| <img src="assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg" width="300"/> | <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="300"/> |
+
+**Abhijna Technical Forum Student Coordinator (2024-25)**
+
+| Certificate | Trophy | Receiving from Principal |
+|:---:|:---:|:---:|
+| <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="250"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="250"/> | <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="250"/> |
+
+**Community Service Ambassador (2022-26)**
+
+| Award | Certificate |
+|:---:|:---:|
+| <img src="assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg" width="400"/> | <img src="assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg" width="400"/> |
+
+</details>
 
 ---
 
@@ -135,53 +169,28 @@
 
 ---
 
-## 🎓 Academic & Technical Awards
-
-| # | Award | Organization | Year |
-|:-:|---|---|---|
-| 1 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
-| 2 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
-| 3 | **Community Service Ambassador** | SVIT | 2022–2026 |
-
-<details>
-<summary>📸 View Award Photos</summary>
-<br>
-
-**2nd Place — Mini Project (2024-25)**
-
-| Certificate | Receiving from HOD |
-|:---:|:---:|
-| <img src="assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg" width="300"/> | <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="300"/> |
-
-**Abhijna Technical Forum Student Coordinator (2024-25)**
-
-| Certificate | Trophy | Receiving from Principal |
-|:---:|:---:|:---:|
-| <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="250"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="250"/> | <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="250"/> |
-
-**Community Service Ambassador (2022-26)**
-
-| Award | Certificate |
-|:---:|:---:|
-| <img src="assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg" width="400"/> | <img src="assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg" width="400"/> |
-
-</details>
-
----
-
 ## 🎬 Creative & Competition Awards
 
 | # | Award | Organization | Year |
 |:-:|---|---|---|
 | 1 | **Short Film Contest — Winner** | Rotaract Club of SVIT | 2024–2025 |
+| 2 | **E-Poster Competition — 2nd Place** | Kalakaar Online Competition | 2023–2024 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
 
+**Short Film Contest — Winner (2024-25)**
+
 | Receiving from Nagarjun Sir | Director Gnaneshwar P | Team ICONIC |
 |:---:|:---:|:---:|
 | <img src="assets/creative/2024-25_Receiving_Short_Film_Constant_winner_of_Rcsvit_2024-25_Award_form_Nagarjun_sir.JPG" width="260"/> | <img src="assets/creative/2024-25_Short_Film_Director_Gnaneshwar_P.jpg" width="260"/> | <img src="assets/creative/2024-25_Short_Film_Team_ICONIC.jpg" width="260"/> |
+
+**E-Poster Competition (2023-24)**
+
+| E-Poster Second Place Award |
+|:---:|
+| <img src="assets/creative/2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg" width="400"/> |
 
 </details>
 
@@ -227,12 +236,12 @@
 
 | Category | Count |
 |---|:---:|
+| 🎓 Academic & Technical Awards | 3 |
 | 🎖️ Leadership & Service Awards | 11 |
 | 🏅 Scholarships & Honors | 4 |
-| 🎓 Academic & Technical Awards | 3 |
-| 🎬 Creative & Competition Awards | 1 |
+| 🎬 Creative & Competition Awards | 2 |
 | 🌍 Community Service Awards | 3 |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ---
 

@@ -1,5 +1,68 @@
 [
     {
+        "id": "2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
+        "title": "2nd Place in Mini Project 2024-25 Certification",
+        "category": "academic",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
+        "title": "Receiving MiniProject Award From HOD",
+        "category": "academic",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/academic/2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg",
+        "title": "department technical forum student coordiantor Award  2023-2024 ",
+        "category": "academic",
+        "year": "2023-24",
+        "source": "Award",
+        "file": "assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg",
+        "title": "Dept Technical Forum Student Coordinator Award 2024-25",
+        "category": "academic",
+        "year": "2023-24",
+        "source": "Award",
+        "file": "assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg",
+        "type": "image"
+    },
+    {
+        "id": "2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg",
+        "title": "Receiving dept tech forum student coordiantor Award From Prinicple",
+        "category": "academic",
+        "year": "2023-24",
+        "source": "Award",
+        "file": "assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2022-2026_Community_Service_Ambassador_Award.jpg",
+        "title": "Community Service Ambassador Award",
+        "category": "academic",
+        "year": "2022-2026",
+        "source": "Award",
+        "file": "assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2022-2026_Community_Service_Ambassador_Certification.jpg",
+        "title": "Community Service Ambassador Certification",
+        "category": "academic",
+        "year": "2022-2026",
+        "source": "Award",
+        "file": "assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg",
         "title": "Outstanding President   Secretary Duo District Award 2024-25",
         "category": "leadership",
@@ -119,19 +182,19 @@
     {
         "id": "2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg",
         "title": "Rotaract Diligent Member Award 2023-24",
-        "category": "uncategorized",
+        "category": "leadership",
         "year": "2023-24",
         "source": "Award",
-        "file": "assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg",
+        "file": "assets/leadership/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg",
         "type": "image"
     },
     {
         "id": "2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg",
         "title": "Rotary Special Recognition Award 2022-23",
-        "category": "uncategorized",
+        "category": "leadership",
         "year": "2022-23",
         "source": "Award",
-        "file": "assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg",
+        "file": "assets/leadership/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg",
         "type": "image"
     },
     {
@@ -164,109 +227,46 @@
     {
         "id": "2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg",
         "title": "Pratt   Whitney Scholarship Memento 2022-23",
-        "category": "uncategorized",
+        "category": "scholarships",
         "year": "2024",
         "source": "Award",
-        "file": "assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg",
+        "file": "assets/scholarships/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg",
         "type": "image"
     },
     {
         "id": "2024_1st_year_Award_2022-23.jpg",
         "title": "1st year Award 2022-23",
-        "category": "uncategorized",
+        "category": "scholarships",
         "year": "2024",
         "source": "Award",
-        "file": "assets/uncategorized/2024_1st_year_Award_2022-23.jpg",
+        "file": "assets/scholarships/2024_1st_year_Award_2022-23.jpg",
         "type": "image"
     },
     {
         "id": "2024_2nd_year_Award_2023-24.jpg",
         "title": "2nd year Award 2023-24",
-        "category": "uncategorized",
+        "category": "scholarships",
         "year": "2024",
         "source": "Award",
-        "file": "assets/uncategorized/2024_2nd_year_Award_2023-24.jpg",
+        "file": "assets/scholarships/2024_2nd_year_Award_2023-24.jpg",
         "type": "image"
     },
     {
         "id": "2024_3rd_year_Award_2024-25.jpg",
         "title": "3rd year Award 2024-25",
-        "category": "uncategorized",
+        "category": "scholarships",
         "year": "2024",
         "source": "Award",
-        "file": "assets/uncategorized/2024_3rd_year_Award_2024-25.jpg",
+        "file": "assets/scholarships/2024_3rd_year_Award_2024-25.jpg",
         "type": "image"
     },
     {
         "id": "2024_4rd_year_Award_2025-26.jpg",
         "title": "4rd year Award 2025-26",
-        "category": "uncategorized",
+        "category": "scholarships",
         "year": "2024",
         "source": "Award",
-        "file": "assets/uncategorized/2024_4rd_year_Award_2025-26.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
-        "title": "2nd Place in Mini Project 2024-25 Certification",
-        "category": "academic",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
-        "title": "Receiving MiniProject Award From HOD",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg",
-        "title": "department technical forum student coordiantor Award  2023-2024 ",
-        "category": "academic",
-        "year": "2023-24",
-        "source": "Award",
-        "file": "assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg",
-        "title": "Dept Technical Forum Student Coordinator Award 2024-25",
-        "category": "academic",
-        "year": "2023-24",
-        "source": "Award",
-        "file": "assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg",
-        "type": "image"
-    },
-    {
-        "id": "2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg",
-        "title": "Receiving dept tech forum student coordiantor Award From Prinicple",
-        "category": "academic",
-        "year": "2023-24",
-        "source": "Award",
-        "file": "assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2022-2026_Community_Service_Ambassador_Award.jpg",
-        "title": "Community Service Ambassador Award",
-        "category": "academic",
-        "year": "2022-2026",
-        "source": "Award",
-        "file": "assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2022-2026_Community_Service_Ambassador_Certification.jpg",
-        "title": "Community Service Ambassador Certification",
-        "category": "academic",
-        "year": "2022-2026",
-        "source": "Award",
-        "file": "assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg",
+        "file": "assets/scholarships/2024_4rd_year_Award_2025-26.jpg",
         "type": "image"
     },
     {
@@ -294,6 +294,15 @@
         "year": "2024-25",
         "source": "Award",
         "file": "assets/creative/2024-25_Short_Film_Team_ICONIC.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg",
+        "title": "E Poster Competition Second Place Award 2023-24",
+        "category": "creative",
+        "year": "2023-24",
+        "source": "Award",
+        "file": "assets/creative/2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg",
         "type": "image"
     },
     {
@@ -351,39 +360,12 @@
         "type": "image"
     },
     {
-        "id": "2024-25_With_My_Team_Members.jpg",
-        "title": "With My Team Members",
-        "category": "leadership",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/leadership/2024-25_With_My_Team_Members.jpg",
-        "type": "image"
-    },
-    {
         "id": "2024-25_With_my_fellow_President.jpg",
         "title": "With my fellow President",
         "category": "leadership",
         "year": "2024-25",
         "source": "Award",
         "file": "assets/leadership/2024-25_With_my_fellow_President.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg",
-        "title": "E Poster Competition Second Place Award 2023-24",
-        "category": "hackathons",
-        "year": "2023-24",
-        "source": "Award",
-        "file": "assets/hackathons/2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-2025_All_Awards.jpg",
-        "title": "All Awards",
-        "category": "leadership",
-        "year": "2024-2025",
-        "source": "Award",
-        "file": "assets/leadership/2024-2025_All_Awards.jpg",
         "type": "image"
     },
     {
@@ -405,12 +387,30 @@
         "type": "image"
     },
     {
+        "id": "2024-25_With_My_Team_Members.jpg",
+        "title": "With My Team Members",
+        "category": "leadership",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/leadership/2024-25_With_My_Team_Members.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-25_Rotaract_President_Completion_Award_2024-25.jpg",
         "title": "Rotaract President Completion Award 2024-25",
         "category": "leadership",
         "year": "2024-25",
         "source": "Award",
         "file": "assets/leadership/2024-25_Rotaract_President_Completion_Award_2024-25.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2024-2025_All_Awards.jpg",
+        "title": "All Awards",
+        "category": "leadership",
+        "year": "2024-2025",
+        "source": "Award",
+        "file": "assets/leadership/2024-2025_All_Awards.jpg",
         "type": "image"
     }
 ]
