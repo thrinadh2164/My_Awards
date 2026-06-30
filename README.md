@@ -110,12 +110,6 @@
 |:---:|:---:|
 | <img src="assets/leadership/2024_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
 
-**SPARK Event: Fellowship & Team (2024)**
-
-| With RSVIT Team Members | With Fellow President |
-|:---:|:---:|
-| <img src="assets/leadership/2024-25_With_RSVIT_Team_Members.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_Fellow_President.jpg" width="400"/> |
-
 </details>
 
 ---

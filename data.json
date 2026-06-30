@@ -297,15 +297,6 @@
         "type": "image"
     },
     {
-        "id": "2024-25_With_Fellow_President.jpg",
-        "title": "With Fellow President",
-        "category": "leadership",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/leadership/2024-25_With_Fellow_President.jpg",
-        "type": "image"
-    },
-    {
         "id": "2024-25_With_my_fellow_President.jpg",
         "title": "With my fellow President",
         "category": "leadership",
@@ -330,15 +321,6 @@
         "year": "2024-25",
         "source": "Award",
         "file": "assets/leadership/2024-25_With_My_Team_Members.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_With_RSVIT_Team_Members.jpg",
-        "title": "With RSVIT Team Members",
-        "category": "leadership",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/leadership/2024-25_With_RSVIT_Team_Members.jpg",
         "type": "image"
     },
     {
