@@ -76,15 +76,16 @@
 |:-:|---|---|---|
 | 1 | **District Committee Member** | Rotaract District 3192 | 2025–2026 |
 | 2 | **Immediate Past President (IPP) Appointment** | Rotaract Club of SVIT | 2025–2026 |
-| 3 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
-| 4 | **Emerging Club of the Quarter** (Q2 – Q4) | Rotaract Club of SVIT | 2024–2025 |
-| 5 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
-| 6 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
-| 7 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
-| 8 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
-| 9 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
-| 10 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
-| 11 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
+| 3 | **President Appointment & Completion** | Rotaract Club of SVIT | 2024–2025 |
+| 4 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
+| 5 | **Emerging Club of the Quarter** (Q2 – Q4) | Rotaract Club of SVIT | 2024–2025 |
+| 6 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
+| 7 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
+| 8 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
+| 9 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
+| 10 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
+| 11 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
+| 12 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
 
 <details>
 <summary>📸 View Award Photos</summary>
@@ -95,6 +96,12 @@
 | District Committee (2025-26) | IPP Appointment (2025-26) |
 |:---:|:---:|
 | <img src="assets/leadership/2025-26_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
+
+**Rotaract President Appointment & Completion 2024-25**
+
+| Appointment Award | Completion Award |
+|:---:|:---:|
+| <img src="assets/leadership/2024-25_Rotaract_President_Appointment_Award_2024-25.jpg" width="400"/> | <img src="assets/leadership/2024-25_Rotaract_President_Completion_Award_2024-25.jpg" width="400"/> |
 
 **Outstanding President & Secretary Duo of RcSVIT 2024-25**
 
@@ -237,11 +244,11 @@
 | Category | Count |
 |---|:---:|
 | 🎓 Academic & Technical Awards | 3 |
-| 🎖️ Leadership & Service Awards | 11 |
+| 🎖️ Leadership & Service Awards | 12 |
 | 🏅 Scholarships & Honors | 4 |
 | 🎬 Creative & Competition Awards | 2 |
 | 🌍 Community Service Awards | 3 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 ---
 
