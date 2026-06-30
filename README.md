@@ -40,13 +40,19 @@
 
 | # | Award | Organization | Year |
 |:-:|---|---|---|
-| 1 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
-| 2 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
-| 3 | **Community Service Ambassador** | SVIT | 2022–2026 |
+| 1 | **Community Service Ambassador** | SVIT | 2022–2026 |
+| 2 | **2nd Place — Mini Project** | Department of CSE, SVIT | 2024–2025 |
+| 3 | **Abhijna Technical Forum — Student Coordinator** | SVIT | 2024–2025 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
+
+**Community Service Ambassador (2022-26)**
+
+| Award | Certificate |
+|:---:|:---:|
+| <img src="assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg" width="400"/> | <img src="assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg" width="400"/> |
 
 **2nd Place — Mini Project (2024-25)**
 
@@ -60,12 +66,6 @@
 |:---:|:---:|:---:|
 | <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="250"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="250"/> | <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="250"/> |
 
-**Community Service Ambassador (2022-26)**
-
-| Award | Certificate |
-|:---:|:---:|
-| <img src="assets/academic/2022-2026_Community_Service_Ambassador_Award.jpg" width="400"/> | <img src="assets/academic/2022-2026_Community_Service_Ambassador_Certification.jpg" width="400"/> |
-
 </details>
 
 ---
@@ -74,21 +74,27 @@
 
 | # | Award | Organization | Year |
 |:-:|---|---|---|
-| 1 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
-| 2 | **Emerging Club of the Quarter** (Q2 – Q4) | Rotaract Club of SVIT | 2024–2025 |
-| 3 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
-| 4 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
-| 5 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
-| 6 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
-| 7 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
-| 8 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
-| 9 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
-| 10 | **District Committee Member** | Rotaract District 3192 | 2025–2026 |
-| 11 | **Immediate Past President (IPP) Appointment** | Rotaract Club of SVIT | 2025–2026 |
+| 1 | **District Committee Member** | Rotaract District 3192 | 2025–2026 |
+| 2 | **Immediate Past President (IPP) Appointment** | Rotaract Club of SVIT | 2025–2026 |
+| 3 | **Outstanding President & Secretary Duo (District Level)** | Rotaract District 3192 | 2024–2025 |
+| 4 | **Emerging Club of the Quarter** (Q2 – Q4) | Rotaract Club of SVIT | 2024–2025 |
+| 5 | **Membership Champion** | Rotaract Club of SVIT | 2024–2025 |
+| 6 | **Promising Year Theme** | Rotaract Club of SVIT | 2024–2025 |
+| 7 | **Transformative Growth of the Year** | Rotaract Club of SVIT | 2024–2025 |
+| 8 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
+| 9 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
+| 10 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
+| 11 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
 
 <details>
 <summary>📸 View Award Photos</summary>
 <br>
+
+**District Committee Member & IPP Appointments**
+
+| District Committee (2025-26) | IPP Appointment (2025-26) |
+|:---:|:---:|
+| <img src="assets/leadership/2025-26_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
 
 **Outstanding President & Secretary Duo of RcSVIT 2024-25**
 
@@ -120,6 +126,12 @@
 |:---:|:---:|
 | <img src="assets/leadership/2024-25_Receiving_Transformative_Growth_of_the_year_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
 
+**The Radioactive Energy Award (2024-25)**
+
+| Award Certificate |
+|:---:|
+| <img src="assets/leadership/2024-25_The_Radioactive_Energy_Award_2024-25.jpg" width="400"/> |
+
 **Rotaract PR Co-Director & Diligent Member (2023-24)**
 
 | PR Co-Director Appointment | Diligent Member Award |
@@ -132,18 +144,6 @@
 |:---:|
 | <img src="assets/leadership/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
-**The Radioactive Energy Award (2024-25)**
-
-| Award Certificate |
-|:---:|
-| <img src="assets/leadership/2024-25_The_Radioactive_Energy_Award_2024-25.jpg" width="400"/> |
-
-**District Committee Member & IPP Appointments**
-
-| District Committee (2025-26) | IPP Appointment (2025-26) |
-|:---:|:---:|
-| <img src="assets/leadership/2025-26_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
-
 </details>
 
 ---
@@ -152,18 +152,18 @@
 
 | # | Scholarship | Awarded By | Year |
 |:-:|---|---|---|
-| 1 | **Pratt & Whitney Scholarship** — 1st Year | Pratt & Whitney | 2022–2023 |
-| 2 | **Pratt & Whitney Scholarship** — 2nd Year | Pratt & Whitney | 2023–2024 |
-| 3 | **Pratt & Whitney Scholarship** — 3rd Year | Pratt & Whitney | 2024–2025 |
-| 4 | **Pratt & Whitney Scholarship** — 4th Year | Pratt & Whitney | 2025–2026 |
+| 1 | **Pratt & Whitney Scholarship** — 4th Year | Pratt & Whitney | 2025–2026 |
+| 2 | **Pratt & Whitney Scholarship** — 3rd Year | Pratt & Whitney | 2024–2025 |
+| 3 | **Pratt & Whitney Scholarship** — 2nd Year | Pratt & Whitney | 2023–2024 |
+| 4 | **Pratt & Whitney Scholarship** — 1st Year | Pratt & Whitney | 2022–2023 |
 
 <details>
 <summary>📸 View Scholarship Certificates</summary>
 <br>
 
-| Memento (2022-23) | 1st Year (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
+| 4th Year (2025-26) | 3rd Year (2024-25) | 2nd Year (2023-24) | 1st Year (2022-23) | Memento (2022-23) |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="assets/scholarships/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="200"/> | <img src="assets/scholarships/2024_1st_year_Award_2022-23.jpg" width="200"/> | <img src="assets/scholarships/2024_2nd_year_Award_2023-24.jpg" width="200"/> | <img src="assets/scholarships/2024_3rd_year_Award_2024-25.jpg" width="200"/> | <img src="assets/scholarships/2024_4rd_year_Award_2025-26.jpg" width="200"/> |
+| <img src="assets/scholarships/2024_4rd_year_Award_2025-26.jpg" width="200"/> | <img src="assets/scholarships/2024_3rd_year_Award_2024-25.jpg" width="200"/> | <img src="assets/scholarships/2024_2nd_year_Award_2023-24.jpg" width="200"/> | <img src="assets/scholarships/2024_1st_year_Award_2022-23.jpg" width="200"/> | <img src="assets/scholarships/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="200"/> |
 
 </details>
 
