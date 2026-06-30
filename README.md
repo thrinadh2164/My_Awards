@@ -54,18 +54,6 @@
 |:---:|:---:|:---:|:---:|
 | <img src="assets/leadership/2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="assets/leadership/2024-25_Receiving_Outstanding_President___Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="assets/leadership/2024-25_All_Awards.jpg" width="210"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="210"/> |
 
-**Rotaract PR Co-Director & Diligent Member (2023-24)**
-
-| PR Co-Director Appointment | Diligent Member Award |
-|:---:|:---:|
-| <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
-
-**Rotary Special Recognition (2022-23)**
-
-| Rotary Special Recognition |
-|:---:|
-| <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
-
 **Emerging Club of RcSVIT (Q1 – Q4) 2024-25**
 
 | Q2 Award | Receiving Q2 | Receiving Q3 | Receiving Q4 |
@@ -89,6 +77,18 @@
 | Receiving the Award | With My Team |
 |:---:|:---:|
 | <img src="assets/leadership/2024-25_Receiving_Transformative_Growth_of_the_year_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
+
+**Rotaract PR Co-Director & Diligent Member (2023-24)**
+
+| PR Co-Director Appointment | Diligent Member Award |
+|:---:|:---:|
+| <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
+
+**Rotary Special Recognition (2022-23)**
+
+| Rotary Special Recognition |
+|:---:|
+| <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
 </details>
 
