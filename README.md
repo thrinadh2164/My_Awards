@@ -11,6 +11,8 @@
 
 ---
 
+### 🔗 [Click Here to View the Live Interactive Gallery](https://thrinadh2164.github.io/My_Awards) 
+
 *A curated showcase of my awards, recognitions, and honors earned through leadership, academics, creativity, and community service.*
 
 </div>
@@ -50,19 +52,19 @@
 
 | District Level Award (Rotaract District 3192) | Receiving the Award | All Awards | With My Team |
 |:---:|:---:|:---:|:---:|
-| <img src="Outstanding_President_&_Secretary_Duo_of_RcSVIT_Award_2024-25/Outstanding_President_&_Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/Receiving_Outstanding_President & Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/All_Awards.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/With_My_Team.jpg" width="210"/> |
+| <img src="assets/leadership/2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/Receiving_Outstanding_President & Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/All_Awards.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/With_My_Team.jpg" width="210"/> |
 
 **Rotaract PR Co-Director & Diligent Member (2023-24)**
 
 | PR Co-Director Appointment | Diligent Member Award |
 |:---:|:---:|
-| <img src="Rotaract_PR_Co_Director_Appointment_Award_2023-24/Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="Rotaract_Diligent_Member_Award_2023-24/Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
+| <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
 
 **Rotary Special Recognition (2022-23)**
 
 | Rotary Special Recognition |
 |:---:|
-| <img src="Rotary_Special_Recognition_Award_2022-23/Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
+| <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
 **Emerging Club of RcSVIT (Q1 – Q4) 2024-25**
 
@@ -106,7 +108,7 @@
 
 | Memento (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
 |:---:|:---:|:---:|:---:|
-| <img src="Scholarships_&_Honors_Award_2022-2026/From Pratty and whithey/Pratt_&_Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="210"/> |
+| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="210"/> |
 
 </details>
 
@@ -126,7 +128,7 @@
 
 | 2nd Place — Mini Project (Receiving from HOD) | Dept Tech Forum Coordinator (2023-24) | Abhijna Tech Forum Coordinator (2024-25) |
 |:---:|:---:|:---:|
-| <img src="2nd Place in Mini Project 2024-25/Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="Dept technical From student coordinator 2023-24/department_technical_forum_student_coordiantor_Award (2023-2024).jpg" width="280"/> | <img src="Dept_technical_From_student_coordinator_Award_2023-24/Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
+| <img src="2nd Place in Mini Project 2024-25/Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="Dept technical From student coordinator 2023-24/department_technical_forum_student_coordiantor_Award (2023-2024).jpg" width="280"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
 
 | Receiving Dept Tech Forum Award from Principal |
 |:---:|
@@ -172,7 +174,7 @@
 
 | Completion Certificate | With My Team |
 |:---:|:---:|
-| <img src="Rotaract_Awards_Award_2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/With_My_Team.jpg" width="400"/> |
+| <img src="assets/community_service/2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/With_My_Team.jpg" width="400"/> |
 
 </details>
 
