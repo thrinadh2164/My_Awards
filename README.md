@@ -89,6 +89,12 @@
 |:---:|
 | <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
+**Fellowship & Team (2024-25)**
+
+| With RSVIT Team Members | With Fellow President |
+|:---:|:---:|
+| <img src="assets/leadership/2024-25_With_RSVIT_Team_Members.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_Fellow_President.jpg" width="400"/> |
+
 </details>
 
 ---

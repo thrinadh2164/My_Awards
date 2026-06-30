@@ -261,6 +261,15 @@
         "type": "image"
     },
     {
+        "id": "2024-25_With_Fellow_President.jpg",
+        "title": "With Fellow President",
+        "category": "leadership",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/leadership/2024-25_With_Fellow_President.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-25_With_my_fellow_President.jpg",
         "title": "With my fellow President",
         "category": "leadership",
@@ -288,6 +297,15 @@
         "type": "image"
     },
     {
+        "id": "2024-25_With_RSVIT_Team_Members.jpg",
+        "title": "With RSVIT Team Members",
+        "category": "leadership",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/leadership/2024-25_With_RSVIT_Team_Members.jpg",
+        "type": "image"
+    },
+    {
         "id": "2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg",
         "title": "Rotary Special Recognition Award 2022-23",
         "category": "uncategorized",
@@ -306,42 +324,6 @@
         "type": "image"
     },
     {
-        "id": "2024-25_1726055388754.jpg",
-        "title": "1726055388754",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_1726055388754.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_1726057022285.jpg",
-        "title": "1726057022285",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_1726057022285.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_1726057022296.jpg",
-        "title": "1726057022296",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_1726057022296.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_1726057147725.jpg",
-        "title": "1726057147725",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_1726057147725.jpg",
-        "type": "image"
-    },
-    {
         "id": "2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
         "title": "2nd Place in Mini Project 2024-25 Certification",
         "category": "uncategorized",
@@ -349,15 +331,6 @@
         "source": "Award",
         "file": "assets/uncategorized/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
         "type": "image"
-    },
-    {
-        "id": "2024-25_MP4_20240610_150305VLOG.mp4",
-        "title": "MP4 20240610 150305VLOG",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_MP4_20240610_150305VLOG.mp4",
-        "type": "video"
     },
     {
         "id": "2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
