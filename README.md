@@ -52,7 +52,7 @@
 
 | Certificate | Receiving from HOD |
 |:---:|:---:|
-| <img src="assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg" width="300"/> | <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="300"/> |
+| <img src="assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg" width="300"/> | <img src="assets/academic/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="300"/> |
 
 **Abhijna Technical Forum Student Coordinator (2024-25)**
 
@@ -124,13 +124,13 @@
 
 | PR Co-Director Appointment | Diligent Member Award |
 |:---:|:---:|
-| <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/uncategorized/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
+| <img src="assets/leadership/2023-24_Rotaract_PR_Co_Director_Appointment_Award_2023-24.jpeg" width="400"/> | <img src="assets/leadership/2023-24_Rotaract_Diligent_Member_Award_2023-24.jpeg" width="400"/> |
 
 **Rotaract Club of SVIT Special Recognition (2022-23)**
 
 | Special Recognition |
 |:---:|
-| <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
+| <img src="assets/leadership/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
 **The Radioactive Energy Award (2024-25)**
 
@@ -163,7 +163,7 @@
 
 | Memento (2022-23) | 1st Year (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="200"/> | <img src="assets/uncategorized/2024_1st_year_Award_2022-23.jpg" width="200"/> | <img src="assets/uncategorized/2024_2nd_year_Award_2023-24.jpg" width="200"/> | <img src="assets/uncategorized/2024_3rd_year_Award_2024-25.jpg" width="200"/> | <img src="assets/uncategorized/2024_4rd_year_Award_2025-26.jpg" width="200"/> |
+| <img src="assets/scholarships/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="200"/> | <img src="assets/scholarships/2024_1st_year_Award_2022-23.jpg" width="200"/> | <img src="assets/scholarships/2024_2nd_year_Award_2023-24.jpg" width="200"/> | <img src="assets/scholarships/2024_3rd_year_Award_2024-25.jpg" width="200"/> | <img src="assets/scholarships/2024_4rd_year_Award_2025-26.jpg" width="200"/> |
 
 </details>
 

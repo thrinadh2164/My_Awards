@@ -351,21 +351,21 @@
         "type": "image"
     },
     {
+        "id": "2024-2025_With_My_Team_Members.jpg",
+        "title": "With My Team Members",
+        "category": "leadership",
+        "year": "2024-2025",
+        "source": "Award",
+        "file": "assets/leadership/2024-2025_With_My_Team_Members.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-2025_With_my_fellow_President.jpg",
         "title": "With my fellow President",
         "category": "leadership",
         "year": "2024-2025",
         "source": "Award",
         "file": "assets/leadership/2024-2025_With_my_fellow_President.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_With_my_fellow_President.jpg",
-        "title": "With my fellow President",
-        "category": "leadership",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/leadership/2024-25_With_my_fellow_President.jpg",
         "type": "image"
     },
     {
@@ -378,12 +378,12 @@
         "type": "image"
     },
     {
-        "id": "2024-2025_With_My_Team_Members.jpg",
-        "title": "With My Team Members",
+        "id": "2024-2025_All_Awards.jpg",
+        "title": "All Awards",
         "category": "leadership",
         "year": "2024-2025",
         "source": "Award",
-        "file": "assets/leadership/2024-2025_With_My_Team_Members.jpg",
+        "file": "assets/leadership/2024-2025_All_Awards.jpg",
         "type": "image"
     },
     {
@@ -405,12 +405,12 @@
         "type": "image"
     },
     {
-        "id": "2024-2025_All_Awards.jpg",
-        "title": "All Awards",
+        "id": "2024-25_With_my_fellow_President.jpg",
+        "title": "With my fellow President",
         "category": "leadership",
-        "year": "2024-2025",
+        "year": "2024-25",
         "source": "Award",
-        "file": "assets/leadership/2024-2025_All_Awards.jpg",
+        "file": "assets/leadership/2024-25_With_my_fellow_President.jpg",
         "type": "image"
     }
 ]
