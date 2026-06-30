@@ -45,6 +45,15 @@
         "type": "image"
     },
     {
+        "id": "2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
+        "title": "2nd Place in Mini Project 2024-25 Certification",
+        "category": "academic",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png",
         "title": "Beach Clean Drive Kundapura Completion Certificate 2024-25",
         "category": "community_service",
@@ -279,6 +288,15 @@
         "type": "image"
     },
     {
+        "id": "2024-25_The_Radioactive_Energy_Award_2024-25.jpg",
+        "title": "The Radioactive Energy Award 2024-25",
+        "category": "leadership",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/leadership/2024-25_The_Radioactive_Energy_Award_2024-25.jpg",
+        "type": "image"
+    },
+    {
         "id": "2024-25_With_Fellow_President.jpg",
         "title": "With Fellow President",
         "category": "leadership",
@@ -324,6 +342,24 @@
         "type": "image"
     },
     {
+        "id": "2024_District_Committee_Rotaract_District_3192_Award.jpg",
+        "title": "District Committee Rotaract District 3192 Award",
+        "category": "leadership",
+        "year": "2024",
+        "source": "Award",
+        "file": "assets/leadership/2024_District_Committee_Rotaract_District_3192_Award.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg",
+        "title": "Rotaract IPP Appointment Award 2025-26",
+        "category": "leadership",
+        "year": "2025-26",
+        "source": "Award",
+        "file": "assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg",
+        "type": "image"
+    },
+    {
         "id": "2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg",
         "title": "Rotary Special Recognition Award 2022-23",
         "category": "uncategorized",
@@ -342,30 +378,12 @@
         "type": "image"
     },
     {
-        "id": "2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
-        "title": "2nd Place in Mini Project 2024-25 Certification",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg",
-        "type": "image"
-    },
-    {
         "id": "2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
         "title": "Receiving MiniProject Award From HOD",
         "category": "uncategorized",
         "year": "2024-25",
         "source": "Award",
         "file": "assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg",
-        "type": "image"
-    },
-    {
-        "id": "2024-25_The_Radioactive_Energy_Award_2024-25.jpg",
-        "title": "The Radioactive Energy Award 2024-25",
-        "category": "uncategorized",
-        "year": "2024-25",
-        "source": "Award",
-        "file": "assets/uncategorized/2024-25_The_Radioactive_Energy_Award_2024-25.jpg",
         "type": "image"
     },
     {
@@ -405,30 +423,12 @@
         "type": "image"
     },
     {
-        "id": "2024_District_Committee_Rotaract_District_3192_Award.jpg",
-        "title": "District Committee Rotaract District 3192 Award",
-        "category": "uncategorized",
-        "year": "2024",
-        "source": "Award",
-        "file": "assets/uncategorized/2024_District_Committee_Rotaract_District_3192_Award.jpg",
-        "type": "image"
-    },
-    {
         "id": "2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg",
         "title": "Pratt   Whitney Scholarship Memento 2022-23",
         "category": "uncategorized",
         "year": "2024",
         "source": "Award",
         "file": "assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg",
-        "type": "image"
-    },
-    {
-        "id": "2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg",
-        "title": "Rotaract IPP Appointment Award 2025-26",
-        "category": "uncategorized",
-        "year": "2025-26",
-        "source": "Award",
-        "file": "assets/uncategorized/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg",
         "type": "image"
     }
 ]

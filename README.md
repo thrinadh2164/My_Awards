@@ -48,6 +48,9 @@
 | 6 | **Public Relations Co-Director** | Rotaract Club of SVIT | 2023–2024 |
 | 7 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
 | 8 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
+| 9 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
+| 10 | **District Committee Member** | Rotaract District 3192 | 2024–2025 |
+| 11 | **Immediate Past President (IPP) Appointment** | Rotaract Club of SVIT | 2025–2026 |
 
 <details>
 <summary>📸 View Award Photos</summary>
@@ -95,7 +98,19 @@
 |:---:|
 | <img src="assets/uncategorized/2022-23_Rotary_Special_Recognition_Award_2022-23.jpeg" width="400"/> |
 
-**Fellowship & Team (2024-25)**
+**The Radioactive Energy Award (2024-25)**
+
+| Award Certificate |
+|:---:|
+| <img src="assets/leadership/2024-25_The_Radioactive_Energy_Award_2024-25.jpg" width="400"/> |
+
+**District Committee Member & IPP Appointments**
+
+| District Committee (2024) | IPP Appointment (2025-26) |
+|:---:|:---:|
+| <img src="assets/leadership/2024_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
+
+**SPARK Event: Fellowship & Team (2024)**
 
 | With RSVIT Team Members | With Fellow President |
 |:---:|:---:|
@@ -140,9 +155,9 @@
 
 **2nd Place — Mini Project (2024-25)**
 
-| Receiving from HOD |
-|:---:|
-| <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="400"/> |
+| Certificate | Receiving from HOD |
+|:---:|:---:|
+| <img src="assets/academic/2024-25_2nd_Place_in_Mini_Project_2024-25_Certification.jpg" width="300"/> | <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="300"/> |
 
 **Abhijna Technical Forum Student Coordinator (2024-25)**
 
@@ -218,12 +233,12 @@
 
 | Category | Count |
 |---|:---:|
-| 🎖️ Leadership & Service Awards | 8 |
+| 🎖️ Leadership & Service Awards | 11 |
 | 🏅 Scholarships & Honors | 4 |
 | 🎓 Academic & Technical Awards | 3 |
 | 🎬 Creative & Competition Awards | 1 |
 | 🌍 Community Service Awards | 3 |
-| **Total** | **19** |
+| **Total** | **22** |
 
 ---
 
