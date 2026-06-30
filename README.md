@@ -49,7 +49,7 @@
 | 7 | **Diligent Member** | Rotaract Club of SVIT | 2023–2024 |
 | 8 | **Special Recognition** | Rotaract Club of SVIT | 2022–2023 |
 | 9 | **The Radioactive Energy Award** | Rotaract Club of SVIT | 2024–2025 |
-| 10 | **District Committee Member** | Rotaract District 3192 | 2024–2025 |
+| 10 | **District Committee Member** | Rotaract District 3192 | 2025–2026 |
 | 11 | **Immediate Past President (IPP) Appointment** | Rotaract Club of SVIT | 2025–2026 |
 
 <details>
@@ -106,9 +106,9 @@
 
 **District Committee Member & IPP Appointments**
 
-| District Committee (2024) | IPP Appointment (2025-26) |
+| District Committee (2025-26) | IPP Appointment (2025-26) |
 |:---:|:---:|
-| <img src="assets/leadership/2024_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
+| <img src="assets/leadership/2025-26_District_Committee_Rotaract_District_3192_Award.jpg" width="400"/> | <img src="assets/leadership/2025-26_Rotaract_IPP_Appointment_Award_2025-26.jpg" width="400"/> |
 
 </details>
 
