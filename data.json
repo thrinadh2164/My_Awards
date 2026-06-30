@@ -90,6 +90,24 @@
         "type": "image"
     },
     {
+        "id": "2024-25_Short_Film_Director_Gnaneshwar_P.jpg",
+        "title": "Short Film Director Gnaneshwar P",
+        "category": "creative",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/creative/2024-25_Short_Film_Director_Gnaneshwar_P.jpg",
+        "type": "image"
+    },
+    {
+        "id": "2024-25_Short_Film_Team_ICONIC.jpg",
+        "title": "Short Film Team ICONIC",
+        "category": "creative",
+        "year": "2024-25",
+        "source": "Award",
+        "file": "assets/creative/2024-25_Short_Film_Team_ICONIC.jpg",
+        "type": "image"
+    },
+    {
         "id": "2023-24_E_Poster_Competition_Second_Place_Award_2023-24.jpg",
         "title": "E Poster Competition Second Place Award 2023-24",
         "category": "hackathons",

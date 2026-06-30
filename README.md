@@ -164,9 +164,9 @@
 <summary>📸 View Award Photos</summary>
 <br>
 
-| Receiving from Nagarjun Sir |
-|:---:|
-| <img src="assets/creative/2024-25_Receiving_Short_Film_Constant_winner_of_Rcsvit_2024-25_Award_form_Nagarjun_sir.JPG" width="400"/> |
+| Receiving from Nagarjun Sir | Director Gnaneshwar P | Team ICONIC |
+|:---:|:---:|:---:|
+| <img src="assets/creative/2024-25_Receiving_Short_Film_Constant_winner_of_Rcsvit_2024-25_Award_form_Nagarjun_sir.JPG" width="260"/> | <img src="assets/creative/2024-25_Short_Film_Director_Gnaneshwar_P.jpg" width="260"/> | <img src="assets/creative/2024-25_Short_Film_Team_ICONIC.jpg" width="260"/> |
 
 </details>
 
