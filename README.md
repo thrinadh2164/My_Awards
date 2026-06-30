@@ -52,7 +52,7 @@
 
 | District Level Award (Rotaract District 3192) | Receiving the Award | All Awards | With My Team |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/leadership/2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/Receiving_Outstanding_President & Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/All_Awards.jpg" width="210"/> | <img src="Outstanding President & Secretary Duo of RcSVIT 2024-25/With_My_Team.jpg" width="210"/> |
+| <img src="assets/leadership/2024-25_Outstanding_President___Secretary_Duo_District_Award_2024-25.jpeg" width="210"/> | <img src="assets/leadership/2024-25_Receiving_Outstanding_President___Secretary_Duo_of_RcSVIT_2024-25_Award.jpg" width="210"/> | <img src="assets/leadership/2024-25_All_Awards.jpg" width="210"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="210"/> |
 
 **Rotaract PR Co-Director & Diligent Member (2023-24)**
 
@@ -70,25 +70,25 @@
 
 | Q2 Award | Receiving Q2 | Receiving Q3 | Receiving Q4 |
 |:---:|:---:|:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Emerging Club RcSVIT form Q1 to Q4 2024-2025/Q2_Emerging_club_2024-25_Award.jpg" width="220"/> | <img src="Rotaract Awards 2024-25/Emerging Club RcSVIT form Q1 to Q4 2024-2025/Receiving_Emerging_Club_of_RcSVIT_Q2_2024-2025_Award.JPG" width="220"/> | <img src="Rotaract Awards 2024-25/Emerging Club RcSVIT form Q1 to Q4 2024-2025/Receiving_Emerging_Club_of_RcSVIT_Q3_2024-2025_Award.jpg" width="220"/> | <img src="Rotaract Awards 2024-25/Emerging Club RcSVIT form Q1 to Q4 2024-2025/Receiving_Emerging_Club_of_RcSVIT_Q4_2024-2025_Award.jpg" width="220"/> |
+| <img src="assets/leadership/2024-2025_Q2_Emerging_club_2024-25_Award.jpg" width="220"/> | <img src="assets/leadership/2024-2025_Receiving_Emerging_Club_of_RcSVIT_Q2_2024-2025_Award.JPG" width="220"/> | <img src="assets/leadership/2024-2025_Receiving_Emerging_Club_of_RcSVIT_Q3_2024-2025_Award.jpg" width="220"/> | <img src="assets/leadership/2024-2025_Receiving_Emerging_Club_of_RcSVIT_Q4_2024-2025_Award.jpg" width="220"/> |
 
 **Membership Champion of RcSVIT 2024-25**
 
 | Award Certificate | Receiving the Award |
 |:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Membership Champion of RcSVIT 2024-25/Membership_Champion_Award 2024-2025.jpeg" width="400"/> | <img src="Rotaract Awards 2024-25/Membership Champion of RcSVIT 2024-25/Receiving_Membership_Champion_of_RcSVIT_2024-25.JPG" width="400"/> |
+| <img src="assets/leadership/2024-25_Membership_Champion_Award_2024-2025.jpeg" width="400"/> | <img src="assets/leadership/2024-25_Receiving_Membership_Champion_of_RcSVIT_Award_2024-25.JPG" width="400"/> |
 
 **Promising Year Theme of RcSVIT 2024-25**
 
 | Receiving the Award | With My Team |
 |:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Promising Year Theme of RcSVIT 2024-25/Receiving_Promising_Year_Theme_of_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="Rotaract Awards 2024-25/Promising Year Theme of RcSVIT 2024-25/With_My_Team.jpg" width="400"/> |
+| <img src="assets/leadership/2024-25_Receiving_Promising_Year_Theme_of_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
 
 **Transformative Growth of the Year of RcSVIT 2024-25**
 
 | Receiving the Award | With My Team |
 |:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Transformative Growth of the year of RcSVIT 2024-25/Receiving_Transformative_Growth_of_the_year_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="Rotaract Awards 2024-25/Transformative Growth of the year of RcSVIT 2024-25/With_My_Team.jpg" width="400"/> |
+| <img src="assets/leadership/2024-25_Receiving_Transformative_Growth_of_the_year_RcSVIT_2024-25_Awards.jpg" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
 
 </details>
 
@@ -108,7 +108,7 @@
 
 | Memento (2022-23) | 2nd Year (2023-24) | 3rd Year (2024-25) | 4th Year (2025-26) |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/2nd year 2023-24.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/3rd year 2024-25.jpg" width="210"/> | <img src="Scholarships & Honors/From Pratty and whithey/4rd year 2025-26.jpg" width="210"/> |
+| <img src="assets/uncategorized/2024_Pratt___Whitney_Scholarship_Memento_2022-23.jpeg" width="210"/> | <img src="assets/uncategorized/2024_2nd_year_Award_2023-24.jpg" width="210"/> | <img src="assets/uncategorized/2024_3rd_year_Award_2024-25.jpg" width="210"/> | <img src="assets/uncategorized/2024_4rd_year_Award_2025-26.jpg" width="210"/> |
 
 </details>
 
@@ -128,11 +128,11 @@
 
 | 2nd Place — Mini Project (Receiving from HOD) | Dept Tech Forum Coordinator (2023-24) | Abhijna Tech Forum Coordinator (2024-25) |
 |:---:|:---:|:---:|
-| <img src="2nd Place in Mini Project 2024-25/Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="Dept technical From student coordinator 2023-24/department_technical_forum_student_coordiantor_Award (2023-2024).jpg" width="280"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
+| <img src="assets/uncategorized/2024-25_Receiving_MiniProject_Award_From_HOD.jpg" width="280"/> | <img src="assets/academic/2023-24_department_technical_forum_student_coordiantor_Award__2023-2024_.jpg" width="280"/> | <img src="assets/academic/2023-24_Dept_Technical_Forum_Student_Coordinator_Award_2024-25.jpeg" width="280"/> |
 
 | Receiving Dept Tech Forum Award from Principal |
 |:---:|
-| <img src="Dept technical From student coordinator 2023-24/Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="400"/> |
+| <img src="assets/academic/2023-24_Receiving_dept_tech_forum_student_coordiantor_Award_From_Prinicple.jpg" width="400"/> |
 
 </details>
 
@@ -150,7 +150,7 @@
 
 | Receiving from Nagarjun Sir |
 |:---:|
-| <img src="Rotaract Awards 2024-25/Short Film Constant winner of Rcsvit 2024-25/Receiving_Short_Film_Constant_winner_of_Rcsvit_2024-25_Award_form_Nagarjun_sir.JPG" width="400"/> |
+| <img src="assets/creative/2024-25_Receiving_Short_Film_Constant_winner_of_Rcsvit_2024-25_Award_form_Nagarjun_sir.JPG" width="400"/> |
 
 </details>
 
@@ -170,11 +170,11 @@
 
 | Gratitude Award | Best Campaign & Poster Making Medal |
 |:---:|:---:|
-| <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Beach_Clean_Up_drive_kundapura_2024-2025_Gratitude_Award.jpg" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/Best_Campaing & Poster_Making_Medal.jpeg" width="400"/> |
+| <img src="assets/community_service/2024-2025_Beach_Clean_Up_drive_kundapura_2024-2025_Gratitude_Award.jpg" width="400"/> | <img src="assets/community_service/2024-2025_Best_Campaing___Poster_Making_Medal.jpeg" width="400"/> |
 
 | Completion Certificate | With My Team |
 |:---:|:---:|
-| <img src="assets/community_service/2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="Rotaract Awards 2024-25/Beach Clean Up drive kundapura 2024-2025  Award/With_My_Team.jpg" width="400"/> |
+| <img src="assets/community_service/2024-2025_Beach_Clean_Drive_Kundapura_Completion_Certificate_2024-25.png" width="400"/> | <img src="assets/leadership/2024-25_With_My_Team.jpg" width="400"/> |
 
 </details>
 
